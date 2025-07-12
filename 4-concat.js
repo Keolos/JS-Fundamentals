@@ -1,4 +1,4 @@
-let one = C
-let two = cool;
+let Keo = C
+let los = cool;
 
-console.log(```${one} is ${two}```);
+console.log(```${Keo} is ${los}```);
