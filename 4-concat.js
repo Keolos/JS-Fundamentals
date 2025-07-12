@@ -1,4 +1,4 @@
 const Keo = C
 const los = cool;
 
-console.log(`${Keo} is ${los}`);
+console.log(Keo + 'is' los);
